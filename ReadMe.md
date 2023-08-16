@@ -1,4 +1,5 @@
 ### To Run
+- Requirements: Add the path of your model to the env file
 - Install: `pip install -r requirements.py`
 - Run: `uvicorn app:app --port 8901 --reload`
 - Test: 
